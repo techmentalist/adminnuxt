@@ -12,7 +12,7 @@
     "@nuxtjs/axios": "^5.13.6",
     "body-parser": "^1.19.0",
     "core-js": "^3.15.1",
-    "element-ui": "^2.15.2",
+    "element-ui": "^2.15.12",
     "express": "^4.17.1",
     "express-async-errors": "^3.1.1",
     "express-session": "^1.17.2",
